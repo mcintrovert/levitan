@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+build_v*/
+dist_v*/
+*.spec.bak
+levitan.json
+levitan.log
+model/
+*.zip
+.venv/
+venv/
